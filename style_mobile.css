@@ -1,0 +1,64 @@
+@media (max-width 350px) {
+.Container{height:100vh;width:100%;background-image:url(images/eggs-1467286_mobile.jpg);background-repeat:no-repeat;background-size:cover;min-height:100%;}
+#menu1,#menu2,#menu3,#menu4{font-size:small;padding-top:5%;}
+#logo{width:80%;}
+.Column p{font-size:large!important;}
+.Column input{font-size:large!important;padding:10px 0!important;}
+.divTable{width:100%!important;}
+.divTableCell{height:250px!important;}
+.TopMenuHolder{height:auto;display:inline;}
+#spacing{height:30px!important;}
+#menurow{width:100%;}
+#protein,#carbs,#fats{padding:0;}
+.hello{display:block;width:100%;height:250px;padding:30px 0;}
+#title{-webkit-margin-before:.5em!important;font-size:12vh!important;}
+#left{width:100%!important;float:none!important;}
+#right{width:80%!important;padding-top:0!important;text-align:justify;margin:0 auto!important;}
+#about{height:120vh!important;}
+#blog{height:130vh!important;}
+#blogtext{width:80vw!important;padding-top:30px!important;font-size:small!important;}
+#contactTitle{margin-before:.5em!important;}
+#contform #contbutton #name #email #message{width:300px!important;}
+}
+@media (min-width: 350px) and (max-width: 650px) {
+.Container{height:100vh;width:100%;background-image:url(images/eggs-1467286_mobile.jpg);background-repeat:no-repeat;background-size:cover;min-height:100%;}
+#menu1,#menu2,#menu3,#menu4{font-size:small;padding-top:5%;}
+#logo{width:80%;}
+.Column p{font-size:large!important;}
+.Column input{font-size:large!important;padding:10px 0!important;}
+.divTable{width:100%!important;}
+.divTableCell{height:250px!important;}
+.TopMenuHolder{height:auto;display:inline;}
+#spacing{height:60px!important;}
+#menurow{width:100%;}
+#protein,carbs,fats{padding:0;}
+.hello{display:block;width:100%;padding:30px 0;}
+#title{-webkit-margin-before:.5em!important;font-size:12vh!important;}
+#left{width:100%!important;float:none!important;}
+#right{width:80%!important;padding-top:0!important;text-align:justify;margin:0 auto!important;}
+#about{height:120vh!important;}
+#blog{height:130vh!important;}
+#blogtext{width:80vw!important;padding-top:30px!important;font-size:small!important;}
+#contactTitle{-webkit-margin-before:.5em!important;}
+#contform,#contbutton,#name,#email,#message{width:300px!important;}
+}
+@media (min-width: 650px) and (max-width: 800px) {
+.Container{height:100vh;width:100%;background-image:url(images/eggs-1467286_mobile.jpg);background-repeat:no-repeat;background-size:cover;min-height:100%;}
+#menu1,#menu2,#menu3,#menu4{font-size:small;padding-top:5%;}
+#logo{width:80%;}
+.Column p{font-size:large!important;}
+.Column input{font-size:large!important;padding:10px 0!important;}
+.divTable{width:100%!important;}
+.divTableCell{height:250px!important;}
+.TopMenuHolder{height:auto;display:inline;}
+#menurow{width:100%;}
+#protein,carbs,fats{padding:0;}
+.hello{display:block;width:100%;padding:30px 0;}
+#title{-webkit-margin-before:.5em!important;font-size:12vh!important;}
+#left{width:100%!important;float:none!important;}
+#right{width:80%!important;padding-top:0!important;text-align:justify;margin:0 auto!important;}
+#about{height:120vh!important;}
+#blog{height:130vh!important;}
+#blogtext{width:80vw!important;padding-top:30px!important;font-size:small!important;}
+#contactTitle{-webkit-margin-before:.5em!important;}
+}
