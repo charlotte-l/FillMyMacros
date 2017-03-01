@@ -9,7 +9,8 @@
 <link rel="icon" href="/favicon.ico" type="image/x-icon" /> <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
 <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120-precomposed.png" />
 <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152-precomposed.png" />
-<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="stylesheet" href="style.css" />
+<link rel="stylesheet" media="screen and (min-width: 300px) and (max-width: 800px)" href="style_mobile.css" />
 <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, user-scalable=yes">
 
 </head>
@@ -42,19 +43,19 @@
 <p>Got a burning question or excellent suggestion? Drop us a line...</p>
 </div>
 
-<div id="form" style="width:400px; margin:0 auto;">
+<div id="contform" style="width:400px; margin:0 auto; text-align:center;">
 <form id="contactform" action="contact.php#result" method="POST">
-<p style="text-align:left">Name</p>
-<input style="border-radius: 0.25em; border-style: solid; border-width: 1px; padding:10px;" maxlength="30" id="name" name="name" size="50" type="text" width="50" />
-<p style="text-align:left">Email</p>
-<input style="border-radius: 0.25em; border-style: solid; border-width: 1px; padding:10px;" maxlength="30" id="email" name="email" size="50" type="email" width="50" />
-<p style="text-align:left">Message</p>
+<p style="text-align:left; margin-left:25px;">Name</p>
+<input style="width:330px; border-radius: 0.25em; border-style: solid; border-width: 1px; padding:10px;" maxlength="30" id="name" name="name" size="50" type="text" width="50" />
+<p style="text-align:left; margin-left:25px;">Email</p>
+<input style="width:330px; border-radius: 0.25em; border-style: solid; border-width: 1px; padding:10px;" maxlength="30" id="email" name="email" size="50" type="email" width="50" />
+<p style="text-align:left; margin-left:25px;">Message</p>
 <textarea rows="10" cols="52" form="contactform" style="width:330px; font-family:inherit; border-radius: 0.25em; border-style: solid; border-width: 1px; padding:10px;" maxlength="1000" name="message" id="message"></textarea>
 <p style="display:none;">Leave this empty: <input type="text" name="url" /></p>
 
 <div id="spacing" style="height:4vh">
 </div>
-<div style="text-align:center; width:370px">
+<div id="contbutton" style="text-align:center; width:370px">
 <input class="Button" style="margin:0 auto;" type="submit" value="Send it">
 </div>
 <div id="spacing" style="height:4vh">

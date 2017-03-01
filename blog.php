@@ -9,7 +9,8 @@
 <link rel="icon" href="/favicon.ico" type="image/x-icon" /> <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
 <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120-precomposed.png" />
 <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152-precomposed.png" />
-<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="stylesheet" href="style.css" />
+<link rel="stylesheet" media="screen and (min-width: 300px) and (max-width: 800px)" href="style_mobile.css" />
 <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, user-scalable=yes">
 
 </head>
@@ -35,9 +36,9 @@
 
 </div>
 
-<div id="about" style="height:80vh;">
+<div id="blog" style="height:85vh;">
 
-<div style="width:40vw; height:80%; margin:0 auto; text-align:left; padding-top:100px;">
+<div style="width:40vw; height:80%; margin:0 auto; text-align:left; padding-top:100px; padding-bottom:4vh;">
 <a href="/blog/hello.php">
 <h1>Hello</h1>
 <h3>Welcome to the party...</h3></a>
