@@ -13,10 +13,10 @@ a:hover{color:LightGray;}
 a{text-decoration:none;}
 .hideme{visibility:hidden;z-index:100;position:absolute;top:250px;text-align:center;text-shadow:2px 2px 4px rgba(0,0,0,1);font-size:larger;width:80%;left:10%;}
 .hello{width:20%;height:350px;position:relative;box-shadow:5px 5px 5px 1px #000;background:#151515;border:1px solid #000;border-right:1px solid #696868;border-bottom:1px solid #696868;border-radius:5px;padding:4px;}
-.Container{height:100vh;width:100%;background-image:url(images/eggs-1467286_1280_3_2.jpg);background-repeat:no-repeat;background-size:cover;min-height:100%;}
+.Container{height:110vh;width:100%;background-image:url(images/eggs-1467286_1280_3_2.jpg);background-repeat:no-repeat;background-size:cover;min-height:100%;}
 .divTableRow{height:350px;}
 .divTableCol{float:left;display:table-column;width:350px;background-color:#ccc;}
-.divTableCell{height:100%;text-shadow:2px 2px 4px rgba(0,0,0,1);vertical-align:bottom;text-align:center;font-size:x-large;padding:3px 10px;}
+.divTableCell{height:100%;text-shadow:2px 2px 1.5px rgba(0,0,0,1);vertical-align:bottom;text-align:center;font-size:2vw;padding:3px 10px;}
 .divTableCell p{top:60px;width:100%;position:absolute;left:0;}
 .hello:hover .hideme{-webkit-transition:all .5s;visibility:visible;}
 .wordwrap{white-space:0;word-wrap:break-word;font-size:22px;}

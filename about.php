@@ -3,7 +3,7 @@
 <html>
 <head>
 <title>Fill My Macros - About</title>
-<meta name="description" content="Your Description" />
+<meta name="description" content="Learn all about Charlotte and Tim, the faces behind Fill My Macros. We created this tool so that you can stop losing sleep over what to eat." />
 <meta charset="utf-8">
 <link rel="image_src" href="http://stackoverflow.com/images/logo.gif" />
 <link rel="icon" href="/favicon.ico" type="image/x-icon" /> <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
@@ -12,7 +12,8 @@
 <link rel="stylesheet" href="style.css" />
 <link rel="stylesheet" media="screen and (min-width: 300px) and (max-width: 800px)" href="style_mobile.css" />
 <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, user-scalable=yes">
-
+<link rel="shortcut icon" href="./favicon.ico" type="image/x-icon">
+<link rel="icon" href="./favicon.ico" type="image/x-icon">
 </head>
 
 <body>
@@ -22,7 +23,7 @@
 
 <div class="TopMenuHolder">
 <div class="Row" id="menurow">
-<div class="Column" id="menu1"><a href="http://www.fillmymacros.com/site.php"><i class="fa fa-home" aria-hidden="true">&nbsp; Home</a></i></div>
+<div class="Column" id="menu1"><a href="http://www.fillmymacros.com"><i class="fa fa-home" aria-hidden="true">&nbsp; Home</a></i></div>
 <div class="Column" id="menu2"><a href="http://www.fillmymacros.com/about.php"><i class="fa fa-info" aria-hidden="true">&nbsp; About</a></i></div>
 <div class="Column" id="menu4"><a href="http://www.fillmymacros.com/blog.php"><i class="fa fa-pencil-square-o" aria-hidden="true">&nbsp; Blog</a></i></div>
 <div class="Column" id="menu3"><a href="http://www.fillmymacros.com/contact.php"><i class="fa fa-comments-o" aria-hidden="true">&nbsp; Contact</a></i></div>
@@ -57,7 +58,7 @@ raiding your fridge and cupboards hopelessly trying to avoid the doughnuts. </p>
 <span>&copy; 2017 Fill My Macros</span>
 </div>
 <div style="display:table-cell; width:32%; text-align: -webkit-center; text-align:center;">
-<span><a style="padding: 0px 10px;" href="http://www.fillmymacros.com/site.php">Home</a> &nbsp; <a style="padding: 0px 10px;" href="http://www.fillmymacros.com/about.php">About</a> &nbsp; <a style="padding: 0px 10px;" href="http://www.fillmymacros.com/blog.php">Blog</a> &nbsp; <a style="padding: 0px 10px;" href="http://www.fillmymacros.com/contact.php">Contact</a></span>
+<span><a style="padding: 0px 10px;" href="http://www.fillmymacros.com/">Home</a> &nbsp; <a style="padding: 0px 10px;" href="http://www.fillmymacros.com/about.php">About</a> &nbsp; <a style="padding: 0px 10px;" href="http://www.fillmymacros.com/blog.php">Blog</a> &nbsp; <a style="padding: 0px 10px;" href="http://www.fillmymacros.com/contact.php">Contact</a></span>
 </div>
 <div style="display:table-cell; width: 32%; text-align: right;">
 <span> Follow us: <i class="fa fa-facebook" aria-hidden="true"></i> &nbsp; <i class="fa fa-twitter" aria-hidden="true"></i></span>
